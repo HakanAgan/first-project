@@ -1,3 +1,3 @@
-public static void exapmleMetod() {
+public static void main() {
 
         }
